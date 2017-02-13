@@ -1,0 +1,32 @@
+.main{
+	background-color: lightblue;
+	width:263px;
+	margin-left: 500px;
+
+}
+.all-columns{
+	margin-left: 25px;
+	width: 224px;
+}
+.left-column{
+	background-color: lightgrey;
+	float: left;
+	width: 33.333%;
+}
+.clear-Fix{
+	clear: both;
+}
+.center-column{
+	background-color: lightgrey;
+	float: left;
+	width: 33.333%;
+}
+.right-column{
+	background-color: lightgrey;
+	float: right;
+	width: 33.333%;
+}
+.little-size{
+	width: 71px;
+	height: 45px;
+}
